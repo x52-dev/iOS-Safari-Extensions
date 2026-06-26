@@ -15,7 +15,7 @@ iOS-Safari-Extensions/
 └── Extensions/
     ├── DarkStrides/       <- Intelligent, image-aware Dark Mode engine
     └── GetSetClicks/      <- Immersive Manga reader & theater mode slider
-
+```
 ---
 
 ## 🛠️ Detailed Extension Breakdown

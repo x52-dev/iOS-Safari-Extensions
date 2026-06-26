@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "description": "Dark Strides for Web pages",
+    "name": "DynamicDark Extension",
+    "version": "1.0",
+
+    "permissions": [
+        "activeTab",
+        "scripting"
+    ],
+
+    "host_permissions": [
+        "<all_urls>"
+    ],
+
+    "content_scripts": [{
+        "js": [ "content.js" ],
+        "matches": [ "<all_urls>" ],
+        "run_at": "document_start"
+    }]
+}

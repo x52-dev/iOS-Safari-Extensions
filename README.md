@@ -9,7 +9,7 @@ A unified monorepo workspace containing high-performance, native Safari Web Exte
 
 This repository is organized into independent Xcode project directories under the `Extensions` folder. Each directory represents a complete standalone extension target, including its native Swift app container and isolated Web Extension resources.
 
-```text
+```
 iOS-Safari-Extensions/
 ├── .gitignore
 ├── README.md

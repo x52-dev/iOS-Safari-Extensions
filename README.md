@@ -1,4 +1,3 @@
-```markdown
 # 🎯 Premium iOS Safari Extensions Collection
 
 A unified monorepo workspace containing high-performance, native Safari Web Extensions designed to elevate the mobile and desktop browsing experience on both iOS and macOS. 
@@ -16,8 +15,6 @@ iOS-Safari-Extensions/
 └── Extensions/
     ├── DarkStrides/       <- Intelligent, image-aware Dark Mode engine
     └── GetSetClicks/      <- Immersive Manga reader & theater mode slider
-
-```
 
 ---
 
